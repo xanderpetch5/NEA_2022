@@ -1,0 +1,10 @@
+acousticness: A measure of how acoustic the track is, on a scale from 0.0 to 1.0. The higher the value, the more acoustic the track is.
+danceability: A measure of how danceable the track is, on a scale from 0.0 to 1.0. The higher the value, the more danceable the track is.
+energy: A measure of the intensity and activity of the track, on a scale from 0.0 to 1.0. The higher the value, the more energetic the track is.
+instrumentalness: A measure of the presence of vocals in the track, on a scale from 0.0 to 1.0. A value of 0.0 indicates that the track has vocals, while a value of 1.0 indicates that the track is instrumental.
+loudness: The overall loudness of the track in decibels (dB), ranging from -60.0 to 0.0. The higher the value, the louder the track is.
+speechiness: A measure of the presence of spoken words in the track, on a scale from 0.0 to 1.0. The higher the value, the more spoken words there are in the track.
+tempo: The tempo of the track in beats per minute (BPM).
+valence: A measure of the positivity of the track, on a scale from 0.0 to 1.0. The higher the value, the more positive the track is.
+key: the key of a song
+liveness: judging if a song is live or not from 0 to 1
